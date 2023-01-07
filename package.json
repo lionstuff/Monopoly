@@ -22,7 +22,7 @@
     "@vue/cli-plugin-pwa": "^4.3.1",
     "@vue/cli-plugin-router": "~4.3.0",
     "@vue/cli-plugin-vuex": "^4.3.1",
-    "@vue/cli-service": "~4.3.0",
+    "@vue/cli-service": "~5.0.8",
     "minimist": ">=1.2.3",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.0",
